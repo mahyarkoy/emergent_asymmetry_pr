@@ -1,13 +1,16 @@
 # Emergent Asymmetry of Precision and Recall for Measuring Fidelity and Diversity of Generative Models in High Dimensions
 Find our paper at [ICML 2023](https://icml.cc/virtual/2023/poster/23612) and [Arxiv](https://arxiv.org/abs/2306.09618). Please cite the following if using the code:
 ```
-@inproceedings{khayatkhoei2023emergent_asymmetry_pr,
-  title={Emergent Asymmetry of Precision and Recall for Measuring Fidelity and Diversity of Generative Models in High Dimensions},
-  author={Khayatkhoei, Mahyar and AbdAlmageed, Wael},
-  booktitle={International Conference on Machine Learning},
-  year={2023},
-  organization={PMLR}
+@InProceedings{khayatkhoei2023emergent_asymmetry_pr,
+  title = 	 {Emergent Asymmetry of Precision and Recall for Measuring Fidelity and Diversity of Generative Models in High Dimensions},
+  author =       {Khayatkhoei, Mahyar and Abdalmageed, Wael},
+  booktitle = 	 {Proceedings of the 40th International Conference on Machine Learning},
+  pages = 	 {16326--16343},
+  year = 	 {2023},
+  volume = 	 {202},
+  publisher =    {PMLR}
 }
+
 ```
 ![figures from the corresponding paper](teaser.png)
 ## Setup
